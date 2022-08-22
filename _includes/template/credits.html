@@ -11,7 +11,11 @@
         {{ page.url | absolute_url }}
         </code>
     </p>
-
+<p>
+        Funders:
+        {% if site.funder_link %}<a href="{{ site.funder_link }}">{{ site.funder }}</a>
+        {% elsif site.funder %}{{ site.funder }}{% endif %} 
+    </p>
     <p>
         Content:
         {% if site.content_license_link %}<a href="{{ site.content_license_link }}">{{ site.content_license }}</a>
