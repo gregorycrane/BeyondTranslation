@@ -11,7 +11,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Beyond Translation -- Perseus 6.0
+title: Beyond Translation: a new reading environment for the Perseus Digital Library
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
@@ -22,7 +22,7 @@ description: "Towards a new reading environment and a fundamental new way to int
 # keywords for meta tags used by search engines
 keywords: "workshops, websites, gh-pages, jekyll"
 # image for meta tags, will appear when sharing link on social media
-featured-image: "/images/uidaho-workshop.jpg"
+featured-image: "/images/beyondtranslation.jpg"
 
 # author name, displayed in credits
 author: gregorycrane
