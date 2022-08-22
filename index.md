@@ -1,11 +1,11 @@
 ---
-title: Lesson Template
+title: Overview
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+This site describes work done on the Beyond Translation (BT) project, a new reading environment for the Perseus Digital Library in particular that is aimed more generally at exploring new ways by which we can interact with the human record. 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="beyondtranslation.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 *Add your workshop abstract here!*
 
