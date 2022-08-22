@@ -28,10 +28,6 @@ featured-image: "/images/beyondtranslation.jpg"
 author: gregorycrane
 # year or date published, displayed in sidebar
 publication_year: 2022
-# main funder
-funder: National Endowment for the Humanities
-# funder link
-funder_link: https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266462-19
 # location of code, the full url to your github repository
 source-code: https://github.com/learn-static/lesson-template
 # content license (typically "cc by-sa"), displayed in sidebar
