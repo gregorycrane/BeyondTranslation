@@ -14,5 +14,6 @@ Integration of diplomatic edition structured according to the Canonical Text Ser
 
 {% include figure.html img="cts-iiif02.jpg" alt="intro image here" caption="detailed view of source image" width="75%" %}
 
+[links3](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.msA-folios:12r.1.1-12r.1.25?mode=folio&rs=image)
 {% include figure.html img="cts-iiif03.jpg" alt="intro image here" caption="source image (right) and scholia (left)" width="75%" %}
 
