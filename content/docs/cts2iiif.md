@@ -1,6 +1,6 @@
 ---
 section_id: New Features
-nav_order: 2
+nav_order: 1
 title: CTS and IIIF
 topics: Front Matter; Navigation
 ---
