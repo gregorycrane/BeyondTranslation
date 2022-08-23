@@ -10,5 +10,9 @@ Integration of diplomatic edition structured according to the Canonical Text Ser
 
 [looks](demo1.mov).
 
-{% include figure.html img="cts2iiif01.jpg" alt="intro image here" caption="Treebank view" width="75%" %}
+{% include figure.html img="cts2iiif01.jpg" alt="intro image here" caption="CTS transcription (right) and IIIF source image (left)" width="75%" %}
+
+{% include figure.html img="cts2iiif02.jpg" alt="intro image here" caption="detailed view of source image" width="75%" %}
+
+{% include figure.html img="cts2iiif03.jpg" alt="intro image here" caption="source image (right) and scholia (left)" width="75%" %}
 
