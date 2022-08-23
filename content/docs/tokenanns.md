@@ -1,3 +1,10 @@
+---
+section_id: New Features
+nav_order: 2
+title: Token level annotations
+topics: Front Matter; Navigation
+---
+
 # Token level Annotations
 
 Here we demonstrate a generalized ability to coordinate multiple -- in an ideal world, arbitrary -- layers of annotation keyed to tokens. NB: this does
