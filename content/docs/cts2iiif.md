@@ -1,6 +1,6 @@
 ---
 section_id: CTS and IIIF
-nav_order: 3
+nav_order: 2
 title: CTS and IIIF
 topics: Front Matter; Navigation
 ---
