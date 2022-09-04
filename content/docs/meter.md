@@ -1,6 +1,6 @@
 ---
-section_id: New Features
-nav_order: 2
+section: New Features
+nav_order: 3
 title: Visualizing and hearing meter
 topics: meter
 ---
