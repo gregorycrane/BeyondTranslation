@@ -1,5 +1,5 @@
 ---
-section_id: New Features
+section: New Features
 nav_order: 2
 title: Token level annotations
 topics: Front Matter; Navigation
