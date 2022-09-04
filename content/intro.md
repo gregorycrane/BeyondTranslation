@@ -3,16 +3,9 @@ nav_order: 1
 title: Introduction
 ---
 
-Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+Beyond Translation constitutes a new environment for reading and for publishing next-generation, born-digital publications in multiple languages. Our goal is to change the way in which audiences view the human record. While all readers will always have to depend upon translations into a language they can understand -- roughly 7,000 languages currently survive. No normal human minds could even learn, much less, master the 24 official languages of the European Union or the 22 official languages of India. Machine translation has begun to expand the range of sources that we can explore in computationally well-resourced languages such as English but students of historical languages, in particular, know that even the best translations are
 
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
-
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
-
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
-
-### Why?
+### Beyond Translation as a medium for publication, preservation, and sustainability.
 
 Rather than making slides for a workshop, why not make a website? 
 It's easier to write, access, share, and reuse. 
