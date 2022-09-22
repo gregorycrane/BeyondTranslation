@@ -1,6 +1,6 @@
 ---
 section: New Features
-nav_order: 4
+nav_order: 5
 title: Highlighting cited passages in a source text.
 topics: Front Matter; Navigation
 ---
