@@ -14,4 +14,8 @@ In the example below, BT highlights those words in the opening of the Iliad that
 
 {% include figure.html img="linking03-cunpers.jpg" alt="intro image here" caption="Words in this passage cited by Cunliffe's Lexicon of Personal Names in Homer" width="75%" %}
 
+{% include figure.html img="linking04-cunliffe.jpg" alt="intro image here" caption="Words in this passage cited by Cunliffe's Lexicon of Personal Names in Homer" width="75%" %}
+
+
+
 A current [link](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.7?mode=dictionary-entries)
