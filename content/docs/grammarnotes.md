@@ -18,8 +18,16 @@ In the example below, BT highlights those words in the opening of the Iliad that
 
 
 
-A current [link](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.7?mode=dictionary-entries)
+A current [link](https://beyond-translation-dev.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.7?mode=dictionary-entries)
 
+We have had links from grammars to passages on which they comment, but these links have been relatively underused. There are several reasons for this. 
+First, there are not enough links to most passages -- only a few words normally have annotations. Most readers do not check to see if there are grammar notes because the payoff is too infrequent.
+
+Second, the presentation is not obvious. In the figure below, the grammar cross references are hidden down under other cross references -- the easy juxaposition below is an artifact of editing the image. Thus, readers would normally not see these cross references.
+
+Third, finding the actual cross reference can be cumbersome.
+
+{% include figure.html img="bt_grammar03.jpg" alt="intro image here" caption="cross references from Smyth and Kuehner Gerth to Thuc. 1.1" width="75%" %}
 
 This leads us to [a fairly large chunk of Smyth]([url](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:part=4:chapter=40)). Only after scrolling down and searching visually or by searching the Web browser for "Thuc", do we find the relevant section.
 
