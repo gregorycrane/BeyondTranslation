@@ -19,3 +19,9 @@ In the example below, BT highlights those words in the opening of the Iliad that
 
 
 A current [link](https://beyond-translation.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.7?mode=dictionary-entries)
+
+
+This leads us to [a fairly large chunk of Smyth]([url](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007:part=4:chapter=40)). Only after scrolling down and searching visually or by searching the Web browser for "Thuc", do we find the relevant section.
+
+{% include figure.html img="bt_grammar04.jpg" alt="intro image here" caption="Words tagged with a particular grammatical feature are highlighted" width="75%" %}
+The uncertainty of what will be found and the effort to find the result does not normally inspire readers to invest the time.
