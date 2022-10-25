@@ -1,7 +1,7 @@
 ---
 section: New Features
 nav_order: 5
-title: Highlighting cited passages in a source text.
+title: Highlighted cited in one or more lexica
 topics: Front Matter; Navigation
 ---
 
