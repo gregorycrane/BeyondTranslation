@@ -1,7 +1,7 @@
 ---
 section: New Features
 nav_order: 4
-title: Textual Notes.
+title: Textual notes
 topics: Front Matter; Navigation
 ---
 
