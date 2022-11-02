@@ -1,7 +1,7 @@
 ---
 section: History
-nav_order: 4
-title: 2005-2022 -- Perseus 4.0 
+nav_order: 5
+title: 2005- -- Perseus 4.0 
 topics: Perseus; History
 ---
 
