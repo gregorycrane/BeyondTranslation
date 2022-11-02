@@ -1,7 +1,7 @@
 ---
 section_id: History
 nav_order: 3
-title: Overview 
+title: Harvard Classics Computing Project: 1982-1986 
 topics: Front Matter; Navigation
 ---
 
