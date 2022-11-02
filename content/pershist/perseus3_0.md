@@ -16,3 +16,6 @@ topics: Perseus; History
 {% include figure.html img="Perseus3-05-Jan-01-1999.jpg" alt="intro image here" caption="Perseus 3.0: ZZZ" width="75%" %}
 
 {% include figure.html img="Perseus3-06-Sep-04-2005.jpg" alt="intro image here" caption="Perseus 3.0: ZZZ" width="75%" %}
+
+{% include figure.html img="Perseus3-06-Nov-17-2000.jpg" alt="intro image here" caption="Perseus 3.0: ZZZ" width="75%" %}
+
