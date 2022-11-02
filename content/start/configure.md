@@ -1,6 +1,6 @@
 ---
 section: Get Started
-nav_order: 3
+nav_order: 30
 title: Basic Configuration
 topics: Site options; _config.yml
 ---
