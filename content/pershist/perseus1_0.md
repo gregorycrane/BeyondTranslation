@@ -2,7 +2,7 @@
 section: History
 nav_order: 2
 title: 1992 -- Perseus 1.0 
-topics: Front Matter; Navigation
+topics: Perseus; History
 ---
 
 
