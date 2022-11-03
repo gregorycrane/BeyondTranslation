@@ -1,5 +1,5 @@
 ---
-section_id: History
+section_id: Earlier Versions of Perseus
 nav_order: 3
 title: Perseus 0.0 -- 1982-1986 
 topics: Perseus; History
