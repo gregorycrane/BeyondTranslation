@@ -1,5 +1,5 @@
 ---
-section: History
+section: Earlier Versions of Perseus
 nav_order: 3
 title: Perseus 2.0 -- 1992-2000
 topics: Perseus; History
