@@ -5,7 +5,8 @@ title: Perseus 0.0 -- 1982-1986
 topics: Perseus; History
 ---
 
-Several earlier projects led to the Perseus Digital Library.
+Several earlier projects led to the Perseus Digital Library. While these involved some collaboration, much of the work was done by Gregory Crane as he finished his PhD. Thus this prehistory to Perseus is more personally autobiographical and tends towards the first person. Subsequent work on Perseus became the product of many different people working in teams over decades.
+
 ## Harvard Classics Computing Project
 
 The Perseus Digital Library has its origins in the summer of 1982, when Gregory Crane, then a PhD student in the Department of Classics at Harvard, begin, as 
