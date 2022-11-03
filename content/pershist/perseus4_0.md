@@ -28,9 +28,9 @@ Work had already begun in 1995 to create a Web based version of Perseus. Written
 
 Digital libraries have evolved substantially: the Perl code base reflected organic growth and experimentation -- there were often no real precedents to build on and we felt our way forward. By 2002, digital library systems reflected considerable development and we began looking for third party solutions. We found that most digital libraries concentrated on locating objects and then left it to the users to make what sense they could of what they had found. We were increasingly focused on giving users the tools to understand what the digital library gave them. We depended upon a range of automatic linking, information extraction and visualization services that existing, largely catalogue-oriented systems could not support.
 
-We developed a two-fold strategy.
+<p>We developed a two-fold strategy.
 
-On the one hand, we identified a long term platform that could provide a home for all the digital objects that we had collected. The Tufts Digital Collections and Archives, with our encouragement, chose FEDORA (Flexible Extensible Digital Object and Repository Architecture) as the foundation for its university repository. An increasing set of Perseus functionality will shift to FEDORA, with the Perseus Digital Library group focusing on new applications and research.
+<p>On the one hand, we identified a long term platform that could provide a home for all the digital objects that we had collected. The Tufts Digital Collections and Archives, with our encouragement, chose FEDORA (Flexible Extensible Digital Object and Repository Architecture) as the foundation for its university repository. An increasing set of Perseus functionality will shift to FEDORA, with the Perseus Digital Library group focusing on new applications and research.
 
 At the same time, the Tufts FEDORA repository was not yet ready to support the demands of our production digital library, where traffic exceeds 10 million pages a month. Most of those pages are constructed dynamically from a range of sources and databases. We chose to build a new digital library system, designing it in such a way that we could move segments of it into FEDORA, as the repository matured.
 
