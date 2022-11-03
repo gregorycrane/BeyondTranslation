@@ -7,7 +7,7 @@ topics: Perseus; History
 
 
 
-## [Original Announcement for Perseus 4.0]([url](http://www.perseus.tufts.edu/hopper/help/archived/perseus4.0.ann.full.html))
+## [Original Announcement for Perseus 4.0](http://www.perseus.tufts.edu/hopper/help/archived/perseus4.0.ann.full.html)
 Perseus 4.0
 May 26, 2005
 Features of Perseus 4.0
@@ -32,13 +32,13 @@ Digital libraries have evolved substantially: the Perl code base reflected organ
 
 <p>On the one hand, we identified a long term platform that could provide a home for all the digital objects that we had collected. The Tufts Digital Collections and Archives, with our encouragement, chose FEDORA (Flexible Extensible Digital Object and Repository Architecture) as the foundation for its university repository. An increasing set of Perseus functionality will shift to FEDORA, with the Perseus Digital Library group focusing on new applications and research.
 
-At the same time, the Tufts FEDORA repository was not yet ready to support the demands of our production digital library, where traffic exceeds 10 million pages a month. Most of those pages are constructed dynamically from a range of sources and databases. We chose to build a new digital library system, designing it in such a way that we could move segments of it into FEDORA, as the repository matured.
+<p>At the same time, the Tufts FEDORA repository was not yet ready to support the demands of our production digital library, where traffic exceeds 10 million pages a month. Most of those pages are constructed dynamically from a range of sources and databases. We chose to build a new digital library system, designing it in such a way that we could move segments of it into FEDORA, as the repository matured.
 
 ### Transition to Perseus 4.0
 Perseus is an experimental digital library, offered freely to users as is, but with no warranty or guarantees. That said, we expect the transition to Perseus 4.0 to be gradual. The version released in May 2005 is very much a work in progress -- some important features have not yet been implemented and some links will fail. We hope that our user community will help us identify problems and work with us to improve this initial effort. To report problems, email bugs@perseus.tufts.edu.
 
-Initially, Perseus 4.0 will have distinct links from the Perl production Perseus, but old links will lead to the new Perseus instead as it becomes more stable. We will do our best to maintain backward compatibility from older links.
+<p>Initially, Perseus 4.0 will have distinct links from the Perl production Perseus, but old links will lead to the new Perseus instead as it becomes more stable. We will do our best to maintain backward compatibility from older links.
 
-Perseus 4.0 does not manage individual images. At present, when you select a thumbnail and call up a full-sized image, you will be taken back to the Perl production version of Perseus. Fedora already has better tools for viewing large scale images than production Perseus and therefore we chose not to rewrite this component of the Perseus digital library. We regret any confusion this more decentralized approach may cause.
+<p>Perseus 4.0 does not manage individual images. At present, when you select a thumbnail and call up a full-sized image, you will be taken back to the Perl production version of Perseus. Fedora already has better tools for viewing large scale images than production Perseus and therefore we chose not to rewrite this component of the Perseus digital library. We regret any confusion this more decentralized approach may cause.
 
-We will for now try to maintain the Perl production servers fully while the transition takes place -- we have no plans to remove any existing server capacity. Perl Perseus will be phased out, however, no later than July 1, 2006.
+<p>We will for now try to maintain the Perl production servers fully while the transition takes place -- we have no plans to remove any existing server capacity. Perl Perseus will be phased out, however, no later than July 1, 2006.
