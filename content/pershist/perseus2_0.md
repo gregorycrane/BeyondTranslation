@@ -1,7 +1,7 @@
 ---
 section: History
 nav_order: 3
-title: Perseus 2.0 -- 1996
+title: Perseus 2.0 -- 1992-2000
 topics: Perseus; History
 ---
 
