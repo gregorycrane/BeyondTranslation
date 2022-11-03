@@ -1,7 +1,7 @@
 ---
 section: History
 nav_order: 4
-title: Perseus 3.0 -- 1996-2005 
+title: Perseus 3.0 -- 1995-2005 
 topics: Perseus; History
 ---
 
