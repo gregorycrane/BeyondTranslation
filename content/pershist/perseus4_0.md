@@ -1,5 +1,5 @@
 ---
-section: History
+section: Earlier Versions of Perseus
 nav_order: 5
 title: Perseus 4.0 -- 2004-  
 topics: Perseus; History
