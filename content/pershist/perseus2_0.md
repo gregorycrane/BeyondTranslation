@@ -15,3 +15,6 @@ https://www.amazon.com/Perseus-2-0-Interactive-Macintosh-computers/dp/0300059353
 Hollmann, Alexander. “CD-ROM Review of Perseus 2.0: Interactive Sources and Studies on Ancient Greece.” Journal for MultiMedia History, vol. 3, 2000, https://www.albany.edu/jmmh/vol3/perseus/perseus.html.
 
 
+{% include figure.html img="Perseus2-01.jpg" alt="intro image here" caption="Perseus 2.0: ZZZ" width="75%" %}
+
+{% include figure.html img="Perseus2-02.jpg" alt="intro image here" caption="Perseus 2.0: ZZZ" width="75%" %}
