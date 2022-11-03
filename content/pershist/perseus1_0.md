@@ -1,5 +1,5 @@
 ---
-section: History
+section: Earlier Versions of Perseus
 nav_order: 2
 title: Perseus 1.0 -- 1985-1992
 topics: Perseus; History
