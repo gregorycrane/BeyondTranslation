@@ -7,13 +7,13 @@ topics: Perseus; History
 
 
 
-## Original Announcement for Perseus 4.0
+## [Original Announcement for Perseus 4.0]([url](http://www.perseus.tufts.edu/hopper/help/archived/perseus4.0.ann.full.html))
 Perseus 4.0
 May 26, 2005
 Features of Perseus 4.0
 
 <ul>
-  <li><i>New back-end digital library software</i>: This involves fewer software dependencies and simplified design. While the Perl production system managed a number of mirror sites and was used by other sites to support their own collections, it was difficult to install and maintain. We also focused consistently on making the digital library system faster. Many of the functions involved in the system are complex and inherently demanding, but we have been able to speed up almost every aspect of the digital library.
+<li><i>New back-end digital library software</i>: This involves fewer software dependencies and simplified design. While the Perl production system managed a number of mirror sites and was used by other sites to support their own collections, it was difficult to install and maintain. We also focused consistently on making the digital library system faster. Many of the functions involved in the system are complex and inherently demanding, but we have been able to speed up almost every aspect of the digital library.
 <li><i>More modern look and feel</i>: The new interface makes previously hard-to-find resources that have been available for years more visible. Categories of data previously dispersed between multiple pages are now brought together in an integrated reading environment. The new system is now in closer compliance with current web standards. Display and content have been more consistently separated.
 <li><i>Services</i>: Perseus 4.0 is designed to support several services. These include distributed catalog services based on emerging XML standards such as MODS/MADS/SRU/OAI. The Perseus reading environment now also offers discrete XML services for morphological analysis, tables of contents, chunking of larger documents into smaller units, and various categories of searching.
 <li><i>Interoperability</i>: The shift to Java has resulted in a much more transparent, object oriented structure, which has resulted in a clearer and readily documented API. Tools such as Jython bring together the clarity of the Java API with the convenience of a scripting language.
@@ -34,7 +34,7 @@ On the one hand, we identified a long term platform that could provide a home fo
 
 At the same time, the Tufts FEDORA repository was not yet ready to support the demands of our production digital library, where traffic exceeds 10 million pages a month. Most of those pages are constructed dynamically from a range of sources and databases. We chose to build a new digital library system, designing it in such a way that we could move segments of it into FEDORA, as the repository matured.
 
-Transition to Perseus 4.0
+### Transition to Perseus 4.0
 Perseus is an experimental digital library, offered freely to users as is, but with no warranty or guarantees. That said, we expect the transition to Perseus 4.0 to be gradual. The version released in May 2005 is very much a work in progress -- some important features have not yet been implemented and some links will fail. We hope that our user community will help us identify problems and work with us to improve this initial effort. To report problems, email bugs@perseus.tufts.edu.
 
 Initially, Perseus 4.0 will have distinct links from the Perl production Perseus, but old links will lead to the new Perseus instead as it becomes more stable. We will do our best to maintain backward compatibility from older links.
