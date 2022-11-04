@@ -12,7 +12,7 @@ a reference grammar.
 In the example below, BT highlights those words in the opening of the Iliad that one or more lexica specifically cite in this particular passage.
 
 
-{% include figure.html img="bt_grammar01.jpg" alt="intro image here" caption="Words with grammtical annotations highlighted and a list of grammatical feastures that occur in this passage" width="75%" %}
+{% include figure.html img="bt_grammar01.jpg" alt="intro image here" caption="Words with grammtical annotations highlighted and a list of grammatical features that occur in this passage" width="75%" %}
 
 {% include figure.html img="bt_grammar02.jpg" alt="intro image here" caption="Words tagged with a particular grammatical feature are highlighted" width="75%" %}
 
