@@ -1,6 +1,6 @@
 ---
-section: New Features
-nav_order: 4
+section: New in Perseus 6.0
+nav_order: 6
 title: Textual notes
 topics: Front Matter; Navigation
 ---
