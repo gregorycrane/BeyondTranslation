@@ -1,5 +1,5 @@
 ---
-section_id: New in Perseus 6.0
+section: New in Perseus 6.0
 nav_order: 2
 title: Treebanks
 topics: Linguistic Annotation
