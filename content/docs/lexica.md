@@ -1,6 +1,6 @@
 ---
-section: New Features
-nav_order: 5
+section: New in Perseus 6.0
+nav_order: 7
 title: Highlighted cited in one or more lexica
 topics: Front Matter; Navigation
 ---
