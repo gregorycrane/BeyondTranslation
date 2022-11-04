@@ -1,6 +1,6 @@
 ---
-section: New Features
-nav_order: 2
+section: New in Perseus 6.0
+nav_order: 4
 title: Token level annotations
 topics: Front Matter; Navigation
 ---
