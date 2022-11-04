@@ -12,3 +12,8 @@ Treebanks are textual databases which record linguistic annotation the defines s
 {% include figure.html img="treebank01.jpg" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="75%" %}
 
 
+{% include figure.html img="treebank02.jpg" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="75%" %}
+
+
+
+
