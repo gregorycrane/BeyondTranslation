@@ -5,4 +5,6 @@ title: Aligned Translations
 topics: Linguistic Annotation
 ---
 
-{% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="75%" %}
+updated
+
+{% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="100%" %}
