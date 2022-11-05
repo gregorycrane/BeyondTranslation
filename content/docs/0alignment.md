@@ -9,3 +9,9 @@ youtubeid: 8yOfimHhARw
 
 
 {% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="150%" %}
+
+{% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="200%" %}
+
+{% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="300%" %}
+
+{% include figure.html img="demo1.gif" alt="intro image here" caption="left: the opening sentence of the Iliad; right: opening three words as a tree" width="400%" %}
