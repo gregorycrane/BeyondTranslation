@@ -9,3 +9,18 @@ topics: Linguistic Annotation
 
 {% include figure.html img="alignment00.jpg" alt="intro image here" caption="alignment" width="75%" %}
 
+
+{% include figure.html img="alignment01.jpg" alt="intro image here" caption="alignment" width="75%" %}
+
+
+{% include figure.html img="alignment02.jpg" alt="intro image here" caption="alignment" width="75%" %}
+
+
+{% include figure.html img="alignment03.jpg" alt="intro image here" caption="alignment" width="75%" %}
+
+
+{% include figure.html img="alignment04.jpg" alt="intro image here" caption="alignment" width="75%" %}
+
+
+{% include figure.html img="alignment05.jpg" alt="intro image here" caption="alignment" width="75%" %}
+
