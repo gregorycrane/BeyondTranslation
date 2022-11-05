@@ -1,6 +1,6 @@
 ---
 section: Create Content
-nav_order: 3
+nav_order: 30
 title: Feature Includes
 topics: Content; Bootstrap Components
 ---
