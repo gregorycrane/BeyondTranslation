@@ -1,6 +1,6 @@
 ---
 section: New in Perseus 6.0
-nav_order: 4
+nav_order: 40
 title: CTS and IIIF
 topics: Front Matter; Navigation
 ---
