@@ -1,7 +1,7 @@
 ---
 section: New in Perseus 6.0
 nav_order: 70
-title: Highlighted cited in one or more lexica
+title: lexica
 topics: Front Matter; Navigation
 ---
 
