@@ -1,6 +1,6 @@
 ---
 section: New in Perseus 6.0
-nav_order: 5
+nav_order: 50
 title: Visualizing and hearing meter
 topics: meter
 ---
