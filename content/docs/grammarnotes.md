@@ -1,6 +1,6 @@
 ---
 section: New in Perseus 6.0
-nav_order: 8
+nav_order: 80
 title: Highlighted grammar notes
 topics: Front Matter; Navigation
 ---
