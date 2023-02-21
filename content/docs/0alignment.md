@@ -7,6 +7,8 @@ topics: Linguistic Annotation
 
 
 
+{% include figure.html img="alignment-demo.gif" alt="intro image here" caption="alignment" width="100%" %}
+
 {% include figure.html img="alignment00.jpg" alt="intro image here" caption="alignment" width="75%" %}
 
 
