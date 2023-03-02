@@ -15,6 +15,8 @@ First, Scaife gave us an updated codebase that we could more easily maintain. Th
 
 Second, Scaife allowed us to expand the amount of Greek and Latin as well as to update existing texts.
 
-Third, Scaife is based upon the Canonical Text Services data model. Perseus decided to adopt CTS in 2013 to standardize the way it organized and cited its holdings. CTS allows us to cite texts not only by conventional citation scheme (e.g., book/line in Homeric Epic, book/chapter/section in Thucydides) but also by edition. We can thus describe the third instance of "et" in a particular section of a particular edition of Livy -- which could be the second instance of that word in another edition or may not even appear at all in yet another edition. CTS allows us to create machine actionable annotations that are precise and easily computed.
+Third, Scaife uses the [CapiTainS software suite](http://capitains.org/) to implement the Canonical Text Services data model. Perseus decided to adopt CTS in 2013 to standardize the way it organized and cited its holdings. CTS allows us to cite texts not only by conventional citation scheme (e.g., book/line in Homeric Epic, book/chapter/section in Thucydides) but also by edition. We can thus describe the third instance of "et" in a particular section of a particular edition of Livy -- which could be the second instance of that word in another edition or may not even appear at all in yet another edition. CTS allows us to create machine actionable annotations that are precise and easily computed.
 
-Fourth, Scaife provided a new front end framework, based upon [Vue.js]([url](https://vuejs.org/)), upon which we could build Beyond Translation. 
+Fourth, Scaife provided a new front end framework, based upon [Vue.js]((https://vuejs.org/), upon which we could build Beyond Translation. 
+
+
