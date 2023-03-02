@@ -5,6 +5,8 @@ title: Perseus 5.0 -- 2018-
 topics: Perseus; History
 ---
 
+{% include figure.html img="Perseus5-scaife.jpg" alt="intro image here" caption="Perseus 5: the Scaife Viewer" width="75%" %}
+
 In 2018, Perseus introduced the Scaife Viewer. We list Scaife as Perseus 5.0. Strictly speaking, however, Scaife was not a new, complete version of Perseus because it does not fully replicate the functionality of Perseus 4.  Scaife represented a first step towards Beyond Translation. 
 
 Scaife accomplished several goals.
@@ -13,4 +15,4 @@ First, Scaife gave us an updated codebase that we could more easily maintain. Th
 
 Second, Scaife allowed us to expand the amount of Greek and Latin as well as to update existing texts.
 
-Third, Scaife is based upon the Canonical Text Services data model. That allows us to cite texts not only by conventional citation scheme (e.g., book/line in Homeric Epic, book/chapter/section in Thucydides) but also by edition. We can thus describe the third instance of "et" in a particular section of a particular edition of Livy. That c
+Third, Scaife is based upon the Canonical Text Services data model. Perseus decided to adopt CTS in 2013 to standardize the way it organized and cited its holdings. CTS allows us to cite texts not only by conventional citation scheme (e.g., book/line in Homeric Epic, book/chapter/section in Thucydides) but also by edition. We can thus describe the third instance of "et" in a particular section of a particular edition of Livy -- which could be the second instance of that word in another edition or may not even appear at all in yet another edition. CTS allows us to create machine actionable annotations that are precise and easily computed.
