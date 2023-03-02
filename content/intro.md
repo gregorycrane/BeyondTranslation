@@ -3,8 +3,7 @@ nav_order: 1
 title: Introduction
 ---
 
-Beyond Translation constitutes a new environment for reading and for publishing next-generation, born-digital publications in multiple languages. Our goal is to change the way in which audiences view the human record. While all readers will always have to depend upon translations into a language they can understand -- roughly 7,000 languages currently survive. No normal human minds could even learn, much less, master the 24 official languages of the European Union or the 22 official languages of India. Machine translation has begun to expand the range of sources that we can explore in computationally well-resourced languages such as English but students of historical languages, in particular, know that even the best translations are
-
+Beyond Translation is the sixth major version of the Perseus Digital Library (Perseus 6.0), but it also represents the biggest advance in functionality of any version of Perseus. While much of the work behind Beyond Tranlation went into a new backend that could weave together many different types of machine actionable data, this site introduces the new services and features available in Beyond Translation.
 ### Beyond Translation as a medium for publication, preservation, and sustainability.
 
 TBA
