@@ -5,7 +5,7 @@ title: Perseus 5.0 -- 2018-
 topics: Perseus; History
 ---
 
-{% include figure.html img="Perseus5-scaife.jpg" alt="intro image here" caption="Perseus 5: the Scaife Viewer" width="75%" %}
+{% include figure.html img="perseus5-scaife.jpg" alt="intro image here" caption="Perseus 5: the Scaife Viewer" width="75%" %}
 
 In 2018, Perseus introduced the Scaife Viewer. We list Scaife as Perseus 5.0. Strictly speaking, however, Scaife was not a new, complete version of Perseus because it does not fully replicate the functionality of Perseus 4.  Scaife represented a first step towards Beyond Translation. 
 
